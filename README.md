@@ -1,9 +1,8 @@
 # Nora Hancock
 
 ---
-15 year old highschool student & 
+15 year old highschool student 
 
----
 ## Interests
 ---
 * Python
@@ -14,7 +13,6 @@
 
 ---
 ## Currently Reading
----
 * The perks of being a wallflower - Stephen Chbosky
 * Company of lairs - Karen Maitland
 
