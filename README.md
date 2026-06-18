@@ -9,7 +9,7 @@
 * History
 
 ## Currently Reading
-* The perks of being a wallflower - Stephen Chbosky
+* The color purple - Alice Walker
 * Company of lairs - Karen Maitland
 
 
