@@ -11,6 +11,7 @@
 ## Currently Reading
 * The color purple - Alice Walker
 * Company of lairs - Karen Maitland
+* The Magician's Nephew - C. S. Lewis
 
 
 Based in New England, USA
