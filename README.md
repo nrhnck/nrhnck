@@ -1,9 +1,10 @@
 # Nora Hancock
-15 yr student interested in highlevel programming lanugages, cli, and linux.
+15 yr student interested in highlevel programming lanugages, cli, and Unix operating systems
 
 ## Interests
 * Python
-* Arch Linux
+* Linux
+* Old tech
 * Writing
 * Reading!
 * History
