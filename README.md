@@ -10,12 +10,6 @@ Location  New England, USA
 
 15-year-old student interested in Unix-like operating systems, command-line tools, and high-level programming languages.
 
-## Working On
-
-- Linux desktop customization
-- Python projects
-- Learning systems programming
-
 ## Reading
 
 - *Tortilla Flat* — John Steinbeck
