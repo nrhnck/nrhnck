@@ -1,5 +1,5 @@
 # Nora Hancock
-15 year old highschool student 
+15 yr student interested in highlevel programming lanugages, cli, and linux.
 
 ## Interests
 * Python
@@ -9,11 +9,10 @@
 * History
 
 ## Currently Reading
-* The color purple - Alice Walker
-* Company of lairs - Karen Maitland
-* The Magician's Nephew - C. S. Lewis
-
+* Tortilla Flat - John Steinbeck
 
 Based in New England, USA
 
-Contact: [erictheswedishsigma@gmail.com](mailto:erictheswedishsigma@gmail.com)
+## Contact 
+Email:[erictheswedishsigma@gmail.com](mailto:erictheswedishsigma@gmail.com)
+Discord: [nrhnck]
