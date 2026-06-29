@@ -14,7 +14,7 @@ Location  New England, USA
 
 - *Tortilla Flat* — John Steinbeck
 
-## Elsewhere
+## You can find me here:
 
 - 🌐 https://nrhnck.github.io/website
 - ▶ https://youtube.com/@nhnck
