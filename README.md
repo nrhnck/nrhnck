@@ -1,31 +1,28 @@
-```md
 # Nora Hancock
 
-I'm a 15-year-old student with an interest in high-level programming languages, command-line tools, and Unix-like operating systems. I enjoy building projects, customizing Linux desktops, and learning how software works under the hood.
+```text
+OS        Arch Linux
+Editor    Neovim
+Shell     fish
+Language  Python
+Location  New England, USA
+```
 
-Outside of programming, I make YouTube videos, read, write, and spend time cycling.
+15-year-old student interested in Unix-like operating systems, command-line tools, and high-level programming languages.
 
-📺 **YouTube:** https://www.youtube.com/@nhnck
+## Working On
 
-## Interests
+- Linux desktop customization
+- Python projects
+- Learning systems programming
 
-- Python
-- Linux & Unix
-- Command-line tools
-- Retro computing
-- Writing
-- Reading
-- History
-- Cycling
-
-## Currently Reading
+## Reading
 
 - *Tortilla Flat* — John Steinbeck
 
-📍 New England, USA
+## Elsewhere
 
-## Contact
-
-- **Email:** [erictheswedishsigma@gmail.com](mailto:erictheswedishsigma@gmail.com)
-- **Discord:** `nrhnck`
-```
+- 🌐 https://nrhnck.github.io/website
+- ▶ https://youtube.com/@nhnck
+- 📧 <erictheswedishsigma@gmail.com>
+- 💬 `nrhnck`
