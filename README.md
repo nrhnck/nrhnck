@@ -2,9 +2,8 @@
 
 ```text
 OS        Arch Linux
-Editor    Neovim
 Shell     fish
-Language  Python
+Hobbies   reading, cycling, and programming!
 Location  New England, USA
 ```
 
